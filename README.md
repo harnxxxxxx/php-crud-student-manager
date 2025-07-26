@@ -21,6 +21,4 @@ A simple Create-Read-Update-Delete (CRUD) application built using **PHP + MySQL*
 4. Import table using the SQL script in `README`
 5. Visit: `http://localhost/PHP-CURD-app/` in browser
 
----
 
-🔗 [Live Demo (if hosted)](https://github.com/yourusername/php-crud-student-manager)
